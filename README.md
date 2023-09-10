@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @louwlevel
 - 👀 I’m interested in all things tech
 - 🌱 I’m currently learning sql
-- 💞️ I’m looking to collaborate on tech projects 
 - 📫 Reach me here louwlevel@gmail.com 
 
 <!---
